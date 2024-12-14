@@ -1,0 +1,55 @@
+﻿<Window x:Class="kursovaya.Views.UserForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:kursovaya.ViewModels"
+        Title="Туры" Height="500" Width="800" Background="#1e1e1e">
+    <Window.DataContext>
+        <vm:TourViewModel />
+    </Window.DataContext>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- ScrollViewer для прокрутки -->
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <!-- Привязка данных с использованием ItemsControl -->
+            <ItemsControl ItemsSource="{Binding Tours}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderBrush="#444444" BorderThickness="1" CornerRadius="8" Margin="10" Background="#333333">
+                            <Grid>
+                                <!-- Изображение тура -->
+                                <Image Source="{Binding ImagePath}" Stretch="UniformToFill" Height="200" />
+
+                                <!-- Название тура -->
+                                <TextBlock Text="{Binding Name}" FontWeight="Bold" FontSize="16" Foreground="White" Background="#AA000000"
+                                           HorizontalAlignment="Left" VerticalAlignment="Bottom" Padding="5" Margin="10,0,0,159" />
+
+                                <!-- Цена тура -->
+                                <TextBlock Text="{Binding Price, StringFormat='Цена: {0:C}'}" FontSize="14" Foreground="White" Background="#99000000"
+                                           HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="625,0,0,125" Padding="5" Width="115" />
+
+                                <!-- Кнопки действия -->
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="531,0,0,10">
+                                    <Button Content="Забронировать" Width="100" Background="#007ACC" Foreground="White" Margin="5" Command="{Binding DataContext.BookCommand, RelativeSource={RelativeSource AncestorType=Window}}" CommandParameter="{Binding}" />
+
+                                    <Button Content="Подробнее"
+        Width="100"
+        Background="#444444"
+        Foreground="White"
+        Margin="5"
+        Command="{Binding DataContext.DetailsCommand, RelativeSource={RelativeSource AncestorType=Window}}"
+        CommandParameter="{Binding}" />
+
+
+                                </StackPanel>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+    </Grid>
+</Window>
