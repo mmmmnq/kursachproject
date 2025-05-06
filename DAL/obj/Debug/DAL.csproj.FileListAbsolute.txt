@@ -1,9 +1,11 @@
 D:\vsprojects\kursaAAch\DAL\bin\Debug\DAL.dll.config
 D:\vsprojects\kursaAAch\DAL\bin\Debug\DAL.dll
 D:\vsprojects\kursaAAch\DAL\bin\Debug\DAL.pdb
+D:\vsprojects\kursaAAch\DAL\bin\Debug\DomainModel.dll
 D:\vsprojects\kursaAAch\DAL\bin\Debug\EntityFramework.dll
 D:\vsprojects\kursaAAch\DAL\bin\Debug\EntityFramework.SqlServer.dll
 D:\vsprojects\kursaAAch\DAL\bin\Debug\EntityFramework6.Npgsql.dll
+D:\vsprojects\kursaAAch\DAL\bin\Debug\Interfaces.dll
 D:\vsprojects\kursaAAch\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 D:\vsprojects\kursaAAch\DAL\bin\Debug\Npgsql.dll
 D:\vsprojects\kursaAAch\DAL\bin\Debug\System.Buffers.dll
@@ -14,6 +16,10 @@ D:\vsprojects\kursaAAch\DAL\bin\Debug\System.Text.Encodings.Web.dll
 D:\vsprojects\kursaAAch\DAL\bin\Debug\System.Text.Json.dll
 D:\vsprojects\kursaAAch\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
 D:\vsprojects\kursaAAch\DAL\bin\Debug\System.ValueTuple.dll
+D:\vsprojects\kursaAAch\DAL\bin\Debug\DomainModel.pdb
+D:\vsprojects\kursaAAch\DAL\bin\Debug\DomainModel.dll.config
+D:\vsprojects\kursaAAch\DAL\bin\Debug\Interfaces.pdb
+D:\vsprojects\kursaAAch\DAL\bin\Debug\Interfaces.dll.config
 D:\vsprojects\kursaAAch\DAL\bin\Debug\EntityFramework.xml
 D:\vsprojects\kursaAAch\DAL\bin\Debug\EntityFramework.SqlServer.xml
 D:\vsprojects\kursaAAch\DAL\bin\Debug\EntityFramework6.Npgsql.xml

@@ -12,6 +12,7 @@ namespace DAL
         [Key]
         public int bookingid { get; set; }
 
+        public string UserName { get; set; }
         public int? userid { get; set; }
 
         public int? tourid { get; set; }

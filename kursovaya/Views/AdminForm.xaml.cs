@@ -22,6 +22,18 @@ namespace kursovaya.Views
         public AdminForm()
         {
             InitializeComponent();
+            this.DataContext = new ViewModels.AdminViewModel();
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            
+            var loginWindow = new MainWindow();
+           
+            loginWindow.Show();
+            
+            this.Close();
         }
     }
 }

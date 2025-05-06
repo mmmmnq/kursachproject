@@ -10,7 +10,10 @@ namespace kursovaya.Views
         {
             InitializeComponent();
         }
-
+        private void CloseButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
         private void registerButton_Click(object sender, RoutedEventArgs e)
         {
             // Получаем данные от пользователя

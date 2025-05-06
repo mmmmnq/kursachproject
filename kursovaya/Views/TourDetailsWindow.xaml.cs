@@ -1,4 +1,5 @@
-﻿using System;
+﻿using kursovaya.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,9 +17,10 @@ namespace kursovaya.Views
 {
     public partial class TourDetailsWindow : Window
     {
-        public TourDetailsWindow()
+        public TourDetailsWindow(int tourId)
         {
             InitializeComponent();
+            DataContext = new TourDetailsViewModel(tourId);
         }
 
         private void CloseWindow_Click(object sender, RoutedEventArgs e)

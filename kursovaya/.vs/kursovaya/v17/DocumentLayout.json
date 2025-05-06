@@ -3,28 +3,90 @@
   "WorkspaceRootPath": "D:\\vsprojects\\kursaAAch\\kursovaya\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4C6BC76-4C89-44E5-878E-4B582AC592DB}|..\\Interfaces\\Interfaces.csproj|d:\\vsprojects\\kursaaach\\interfaces\\dto\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3F8CAE2-CE19-4834-97E9-CA2D98FE139F}|..\\DAL\\DAL.csproj|d:\\vsprojects\\kursaaach\\dal\\dto\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3F8CAE2-CE19-4834-97E9-CA2D98FE139F}|..\\DAL\\DAL.csproj|d:\\vsprojects\\kursaaach\\dal\\dto\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\repository\\bookingrepostitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\service\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\adminviewmodels\\bookingmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\adminviewmodels\\bookingmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\managebookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\managebookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C6BC76-4C89-44E5-878E-4B582AC592DB}|..\\Interfaces\\Interfaces.csproj|d:\\vsprojects\\kursaaach\\interfaces\\services\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C6BC76-4C89-44E5-878E-4B582AC592DB}|..\\Interfaces\\Interfaces.csproj|d:\\vsprojects\\kursaaach\\interfaces\\dto\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C6BC76-4C89-44E5-878E-4B582AC592DB}|..\\Interfaces\\Interfaces.csproj|d:\\vsprojects\\kursaaach\\interfaces\\dto\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3F8CAE2-CE19-4834-97E9-CA2D98FE139F}|..\\DAL\\DAL.csproj|d:\\vsprojects\\kursaaach\\dal\\dto\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFC8F66-92DB-48F7-B9F9-A330D72C0689}|..\\DomainModel\\DomainModel.csproj|d:\\vsprojects\\kursaaach\\domainmodel\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\managetourwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\managetourwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\addedittours.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\addedittours.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\registerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\registerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\userform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\userform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\tourviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\tourviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\tourdetailsandreviewsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\tourdetailsandreviewsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\reviewsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\reviewsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,115 +97,328 @@
       "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\userform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\userform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\models\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:models\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\helpers\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:helpers\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\tourdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\tourdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\tourdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\tourdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3F8CAE2-CE19-4834-97E9-CA2D98FE139F}|..\\DAL\\DAL.csproj|d:\\vsprojects\\kursaaach\\dal\\dto\\tourwithimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\models\\tours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:models\\tours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3F8CAE2-CE19-4834-97E9-CA2D98FE139F}|..\\DAL\\DAL.csproj|d:\\vsprojects\\kursaaach\\dal\\dto\\tours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3F8CAE2-CE19-4834-97E9-CA2D98FE139F}|..\\DAL\\DAL.csproj|d:\\vsprojects\\kursaaach\\dal\\dto\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\registerform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\registerform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\helpers\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:helpers\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\registerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\registerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\helpers\\tourstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:helpers\\tourstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\helpers\\ticketgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:helpers\\ticketgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\helpers\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:helpers\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\helpers\\statustobuttonenabledconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:helpers\\statustobuttonenabledconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\helpers\\nulltoboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:helpers\\nulltoboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\helpers\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:helpers\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3F8CAE2-CE19-4834-97E9-CA2D98FE139F}|..\\DAL\\DAL.csproj|d:\\vsprojects\\kursaaach\\dal\\dto\\travelagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3F8CAE2-CE19-4834-97E9-CA2D98FE139F}|..\\DAL\\DAL.csproj|d:\\vsprojects\\kursaaach\\dal\\dto\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\tourmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3F8CAE2-CE19-4834-97E9-CA2D98FE139F}|..\\DAL\\DAL.csproj|d:\\vsprojects\\kursaaach\\dal\\dto\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4C6BC76-4C89-44E5-878E-4B582AC592DB}|..\\Interfaces\\Interfaces.csproj|d:\\vsprojects\\kursaaach\\interfaces\\repository\\idbrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3F8CAE2-CE19-4834-97E9-CA2D98FE139F}|..\\DAL\\DAL.csproj|d:\\vsprojects\\kursaaach\\dal\\dto\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4C6BC76-4C89-44E5-878E-4B582AC592DB}|..\\Interfaces\\Interfaces.csproj|d:\\vsprojects\\kursaaach\\interfaces\\dto\\tourwithimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFC8F66-92DB-48F7-B9F9-A330D72C0689}|..\\DomainModel\\DomainModel.csproj|d:\\vsprojects\\kursaaach\\domainmodel\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFC8F66-92DB-48F7-B9F9-A330D72C0689}|..\\DomainModel\\DomainModel.csproj|d:\\vsprojects\\kursaaach\\domainmodel\\tours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\adminviewmodels\\manageusersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\adminviewmodels\\manageusersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\userform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\userform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\tourviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\tourviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\reportswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\reportswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\tourdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\tourdetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C6BC76-4C89-44E5-878E-4B582AC592DB}|..\\Interfaces\\Interfaces.csproj|d:\\vsprojects\\kursaaach\\interfaces\\services\\itransportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFC8F66-92DB-48F7-B9F9-A330D72C0689}|..\\DomainModel\\DomainModel.csproj|d:\\vsprojects\\kursaaach\\domainmodel\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C6BC76-4C89-44E5-878E-4B582AC592DB}|..\\Interfaces\\Interfaces.csproj|d:\\vsprojects\\kursaaach\\interfaces\\dto\\tours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C6BC76-4C89-44E5-878E-4B582AC592DB}|..\\Interfaces\\Interfaces.csproj|d:\\vsprojects\\kursaaach\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\repository\\transportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\repository\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\service\\transportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\models\\tours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:models\\tours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C6BC76-4C89-44E5-878E-4B582AC592DB}|..\\Interfaces\\Interfaces.csproj|d:\\vsprojects\\kursaaach\\interfaces\\services\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F8CAE2-CE19-4834-97E9-CA2D98FE139F}|..\\DAL\\DAL.csproj|d:\\vsprojects\\kursaaach\\dal\\dto\\tours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\repository\\reviewrepostitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\reposrtsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\reposrtsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\adminviewmodels\\addedittoursviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\adminviewmodels\\addedittoursviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\service\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFC8F66-92DB-48F7-B9F9-A330D72C0689}|..\\DomainModel\\DomainModel.csproj|d:\\vsprojects\\kursaaach\\domainmodel\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFC8F66-92DB-48F7-B9F9-A330D72C0689}|..\\DomainModel\\DomainModel.csproj|d:\\vsprojects\\kursaaach\\domainmodel\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\reportswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\reportswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFC8F66-92DB-48F7-B9F9-A330D72C0689}|..\\DomainModel\\DomainModel.csproj|d:\\vsprojects\\kursaaach\\domainmodel\\tourstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\adminviewmodels\\managetoursviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\adminviewmodels\\managetoursviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C6BC76-4C89-44E5-878E-4B582AC592DB}|..\\Interfaces\\Interfaces.csproj|d:\\vsprojects\\kursaaach\\interfaces\\dto\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\adminviewmodels\\reviewmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\adminviewmodels\\reviewmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\adminviewmodels\\addimagewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\adminviewmodels\\addimagewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\addimagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\addimagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\addimagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\addimagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\adminviewmodels\\addeditusersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\adminviewmodels\\addeditusersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\addedituserswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\addedituserswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\addedituserswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\addedituserswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\manageuserswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\manageuserswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\managetransportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\managetransportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\manageuserswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\manageuserswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\registerform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\registerform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\adminviewmodels\\managetransportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\adminviewmodels\\managetransportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\review.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\review.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\writereviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\writereviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\managetourwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\managetourwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\managetransportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\managetransportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matiq\\AppData\\Local\\Temp\\.vsdbgsrc\\5bd1382993348c832e1a36c46eef8a3066055294d59d9915c9d91b46481b75d6\\FrameworkTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matiq\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4C6BC76-4C89-44E5-878E-4B582AC592DB}|..\\Interfaces\\Interfaces.csproj|d:\\vsprojects\\kursaaach\\interfaces\\services\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\service\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C6BC76-4C89-44E5-878E-4B582AC592DB}|..\\Interfaces\\Interfaces.csproj|d:\\vsprojects\\kursaaach\\interfaces\\dto\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\viewmodels\\adminviewmodels\\imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:viewmodels\\adminviewmodels\\imageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\review.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\review.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\picturemanage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\picturemanage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\picturemanage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\picturemanage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|D:\\vsprojects\\kursaAAch\\kursovaya\\views\\adminforms\\addtransportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{748DEE6D-310A-4F9B-A4F6-E2E8BCD9C07B}|kursovaya.csproj|solutionrelative:views\\adminforms\\addtransportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46961687-CB63-47FD-8DB3-7CE52CD0081F}|..\\BLL\\BLL.csproj|d:\\vsprojects\\kursaaach\\bll\\service\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\PictureManage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\AdminForm\\PictureManage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\PictureManage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\AdminForm\\PictureManage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\AddEditUsersWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\AdminForm\\AddEditUsersWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\ManageTourWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\AdminForm\\ManageTourWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\AddEditUsersWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\AdminForm\\AddEditUsersWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\ManageUsersWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\AdminForm\\ManageUsersWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\ManageBookingWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\AdminForm\\ManageBookingWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\AddEditTours.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\AdminForm\\AddEditTours.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "DockedHeight": 348,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -151,440 +426,1322 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAMwDcAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "bookings.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\Interfaces\\DTO\\bookings.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\DTO\\bookings.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\Interfaces\\DTO\\bookings.cs",
+              "RelativeToolTip": "..\\Interfaces\\DTO\\bookings.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T19:59:20.665Z"
+              "WhenOpened": "2025-01-03T21:12:51.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageBookingWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\ManageBookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\ManageBookingWindow.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\ManageBookingWindow.xaml.cs",
+              "RelativeToolTip": "Views\\AdminForms\\ManageBookingWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:53:47.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\Service\\BookingService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Service\\BookingService.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\Service\\BookingService.cs",
+              "RelativeToolTip": "..\\BLL\\Service\\BookingService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T20:02:41.742Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\RegisterViewModel.cs",
-              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA5wA4AAAAtAAAAAAAAAA==",
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\Interfaces\\Services\\IBookingService.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\Services\\IBookingService.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\Interfaces\\Services\\IBookingService.cs",
+              "RelativeToolTip": "..\\Interfaces\\Services\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T21:26:39.384Z"
+              "WhenOpened": "2025-01-06T15:08:44.849Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "BookingRepostitory.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\repository\\BookingRepostitory.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\repository\\BookingRepostitory.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\repository\\BookingRepostitory.cs",
+              "RelativeToolTip": "..\\BLL\\repository\\BookingRepostitory.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAkwAEBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:41:06.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bookings.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\bookings.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DTO\\bookings.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\bookings.cs",
+              "RelativeToolTip": "..\\DAL\\DTO\\bookings.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:17:15.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "reviews.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\reviews.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DTO\\reviews.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\reviews.cs",
+              "RelativeToolTip": "..\\DAL\\DTO\\reviews.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:23:09.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingManage.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\BookingManage.cs",
+              "RelativeDocumentMoniker": "ViewModels\\adminviewmodels\\BookingManage.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\BookingManage.cs",
+              "RelativeToolTip": "ViewModels\\adminviewmodels\\BookingManage.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:10:29.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "users.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\Interfaces\\DTO\\users.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\DTO\\users.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\Interfaces\\DTO\\users.cs",
+              "RelativeToolTip": "..\\Interfaces\\DTO\\users.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwH8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T22:29:08.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "transport.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\Interfaces\\DTO\\transport.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\DTO\\transport.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\Interfaces\\DTO\\transport.cs",
+              "RelativeToolTip": "..\\Interfaces\\DTO\\transport.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwE0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:01:42.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "users.cs",
               "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\users.cs",
               "RelativeDocumentMoniker": "..\\DAL\\DTO\\users.cs",
               "ToolTip": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\users.cs",
               "RelativeToolTip": "..\\DAL\\DTO\\users.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T15:49:37.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\UserService.cs",
-              "RelativeDocumentMoniker": "..\\BLL\\UserService.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\UserService.cs",
-              "RelativeToolTip": "..\\BLL\\UserService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAswCoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T18:08:53.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookingService.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\BookingService.cs",
-              "RelativeDocumentMoniker": "..\\BLL\\BookingService.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\BookingService.cs",
-              "RelativeToolTip": "..\\BLL\\BookingService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwF8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T23:19:14.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserForm.xaml",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\UserForm.xaml",
-              "RelativeDocumentMoniker": "Views\\UserForm.xaml",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\UserForm.xaml",
-              "RelativeToolTip": "Views\\UserForm.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-08T19:15:59.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CurrentUser.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\CurrentUser.cs",
-              "RelativeDocumentMoniker": "..\\BLL\\CurrentUser.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\CurrentUser.cs",
-              "RelativeToolTip": "..\\BLL\\CurrentUser.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T18:08:13.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "Helpers\\RelayCommand.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\RelayCommand.cs",
-              "RelativeToolTip": "Helpers\\RelayCommand.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAswD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T18:15:08.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserForm.xaml.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\UserForm.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\UserForm.xaml.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\UserForm.xaml.cs",
-              "RelativeToolTip": "Views\\UserForm.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:56:51.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookingWindow.xaml",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\BookingWindow.xaml",
-              "RelativeDocumentMoniker": "Views\\BookingWindow.xaml",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\BookingWindow.xaml",
-              "RelativeToolTip": "Views\\BookingWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-13T21:41:21.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TourViewModel.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\TourViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\TourViewModel.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\TourViewModel.cs",
-              "RelativeToolTip": "ViewModels\\TourViewModel.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAADwvzcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:39:28.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\IUserService.cs",
-              "RelativeDocumentMoniker": "..\\BLL\\IUserService.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\IUserService.cs",
-              "RelativeToolTip": "..\\BLL\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T18:09:40.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ITourService.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\ITourService.cs",
-              "RelativeDocumentMoniker": "..\\BLL\\ITourService.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\ITourService.cs",
-              "RelativeToolTip": "..\\BLL\\ITourService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:06:29.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CurrentUser.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\CurrentUser.cs",
-              "RelativeDocumentMoniker": "Helpers\\CurrentUser.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\CurrentUser.cs",
-              "RelativeToolTip": "Helpers\\CurrentUser.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T18:16:16.756Z"
+              "WhenOpened": "2025-04-03T09:28:00.663Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "TourDetailsWindow.xaml",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\TourDetailsWindow.xaml",
-              "RelativeDocumentMoniker": "Views\\TourDetailsWindow.xaml",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\TourDetailsWindow.xaml",
-              "RelativeToolTip": "Views\\TourDetailsWindow.xaml",
+              "Title": "AdminForm.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AdminForm.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm.xaml.cs",
+              "RelativeToolTip": "Views\\AdminForm.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:25:40.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageTourWindow.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\ManageTourWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\ManageTourWindow.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\ManageTourWindow.xaml",
+              "RelativeToolTip": "Views\\AdminForms\\ManageTourWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-13T19:55:19.692Z"
+              "WhenOpened": "2024-12-30T21:23:12.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEditTours.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\AddEditTours.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\AddEditTours.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\AddEditTours.xaml",
+              "RelativeToolTip": "Views\\AdminForms\\AddEditTours.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T22:28:28.423Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AdminViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\AdminViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AdminViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:16:01.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "users.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DomainModel\\users.cs",
+              "RelativeDocumentMoniker": "..\\DomainModel\\users.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\DomainModel\\users.cs",
+              "RelativeToolTip": "..\\DomainModel\\users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:46:23.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-03T07:24:48.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
               "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\MainWindow.xaml",
               "RelativeToolTip": "Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-08T21:40:36.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Image.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Models\\Image.cs",
-              "RelativeDocumentMoniker": "Models\\Image.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Models\\Image.cs",
-              "RelativeToolTip": "Models\\Image.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:17:48.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TourService.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\TourService.cs",
-              "RelativeDocumentMoniker": "..\\BLL\\TourService.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\TourService.cs",
-              "RelativeToolTip": "..\\BLL\\TourService.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAADwv2MAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:22:43.036Z"
+              "WhenOpened": "2025-01-04T23:52:01.251Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "TourWithImage.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\TourWithImage.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\DTO\\TourWithImage.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\TourWithImage.cs",
-              "RelativeToolTip": "..\\DAL\\DTO\\TourWithImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:14:51.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TourDetailsWindow.xaml.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\TourDetailsWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\TourDetailsWindow.xaml.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\TourDetailsWindow.xaml.cs",
-              "RelativeToolTip": "Views\\TourDetailsWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T19:55:35.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "tours.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\tours.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\DTO\\tours.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\tours.cs",
-              "RelativeToolTip": "..\\DAL\\DTO\\tours.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAmwDwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:16:07.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Tours.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Models\\Tours.cs",
-              "RelativeDocumentMoniker": "Models\\Tours.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Models\\Tours.cs",
-              "RelativeToolTip": "Models\\Tours.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:17:35.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "reviews.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\reviews.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\DTO\\reviews.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\reviews.cs",
-              "RelativeToolTip": "..\\DAL\\DTO\\reviews.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T17:57:20.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "TravelAgencyContext.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\TravelAgencyContext.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\DTO\\TravelAgencyContext.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\TravelAgencyContext.cs",
-              "RelativeToolTip": "..\\DAL\\DTO\\TravelAgencyContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T17:55:38.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "images.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\images.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\DTO\\images.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\images.cs",
-              "RelativeToolTip": "..\\DAL\\DTO\\images.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:16:38.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "transport.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\transport.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\DTO\\transport.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\transport.cs",
-              "RelativeToolTip": "..\\DAL\\DTO\\transport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:17:08.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "bookings.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\bookings.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\DTO\\bookings.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\bookings.cs",
-              "RelativeToolTip": "..\\DAL\\DTO\\bookings.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:16:25.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "RegisterForm.xaml.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\RegisterForm.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\RegisterForm.xaml.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\RegisterForm.xaml.cs",
-              "RelativeToolTip": "Views\\RegisterForm.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T16:22:39.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "StringToVisibilityConverter.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\StringToVisibilityConverter.cs",
-              "RelativeDocumentMoniker": "Helpers\\StringToVisibilityConverter.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\StringToVisibilityConverter.cs",
-              "RelativeToolTip": "Helpers\\StringToVisibilityConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T18:14:32.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-13T20:00:14.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAjwCYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T21:04:28.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
               "Title": "RegisterForm.xaml",
               "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\RegisterForm.xaml",
               "RelativeDocumentMoniker": "Views\\RegisterForm.xaml",
               "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\RegisterForm.xaml",
               "RelativeToolTip": "Views\\RegisterForm.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-08T19:15:29.236Z"
+              "WhenOpened": "2025-01-07T00:49:51.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 15,
+              "Title": "AdminForm.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForm.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm.xaml",
+              "RelativeToolTip": "Views\\AdminForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T22:04:17.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AddEditUsersWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\AddEditUsersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\AddEditUsersWindow.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\AddEditUsersWindow.xaml.cs",
+              "RelativeToolTip": "Views\\AdminForms\\AddEditUsersWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:20:00.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ManageTransportWindow.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\ManageTransportWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\ManageTransportWindow.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\ManageTransportWindow.xaml",
+              "RelativeToolTip": "Views\\AdminForms\\ManageTransportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T22:31:55.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ManageUsersWindow.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\ManageUsersWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\ManageUsersWindow.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\ManageUsersWindow.xaml",
+              "RelativeToolTip": "Views\\AdminForms\\ManageUsersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T19:51:04.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ManageUsersWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\ManageUsersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\ManageUsersWindow.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\ManageUsersWindow.xaml.cs",
+              "RelativeToolTip": "Views\\AdminForms\\ManageUsersWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:25:59.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserForm.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\UserForm.xaml",
+              "RelativeDocumentMoniker": "Views\\UserForm.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\UserForm.xaml",
+              "RelativeToolTip": "Views\\UserForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T20:01:41.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ReviewRepostitory.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\repository\\ReviewRepostitory.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\repository\\ReviewRepostitory.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\repository\\ReviewRepostitory.cs",
+              "RelativeToolTip": "..\\BLL\\repository\\ReviewRepostitory.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAHkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T20:04:36.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ReposrtsViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\ReposrtsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ReposrtsViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\ReposrtsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ReposrtsViewModel.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAIAwwPMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T20:21:52.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "TourService.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\Service\\TourService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Service\\TourService.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\Service\\TourService.cs",
+              "RelativeToolTip": "..\\BLL\\Service\\TourService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvzUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:45:29.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ReportsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\ReportsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ReportsWindow.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\ReportsWindow.xaml.cs",
+              "RelativeToolTip": "Views\\ReportsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:11:05.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TourDetailsAndReviewsViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\TourDetailsAndReviewsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TourDetailsAndReviewsViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\TourDetailsAndReviewsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TourDetailsAndReviewsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T23:54:16.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:21:33.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T00:58:20.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Models\\Transport.cs",
+              "RelativeDocumentMoniker": "Models\\Transport.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Models\\Transport.cs",
+              "RelativeToolTip": "Models\\Transport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:01:29.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserForm.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\UserForm.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\UserForm.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\UserForm.xaml.cs",
+              "RelativeToolTip": "Views\\UserForm.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T01:01:39.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TourWithImage.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\Interfaces\\DTO\\TourWithImage.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\DTO\\TourWithImage.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\Interfaces\\DTO\\TourWithImage.cs",
+              "RelativeToolTip": "..\\Interfaces\\DTO\\TourWithImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T23:52:46.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Users.cs",
               "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Models\\Users.cs",
               "RelativeDocumentMoniker": "Models\\Users.cs",
               "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Models\\Users.cs",
               "RelativeToolTip": "Models\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:18:12.716Z"
+              "WhenOpened": "2025-01-11T16:01:16.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-08T18:02:43.977Z"
+              "DocumentIndex": 38,
+              "Title": "TourManager.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\TourManager.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\TourManager.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\TourManager.cs",
+              "RelativeToolTip": "..\\BLL\\TourManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:40:16.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TourViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\TourViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TourViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\TourViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TourViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T23:54:14.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ManageUsersViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\ManageUsersViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\adminviewmodels\\ManageUsersViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\ManageUsersViewModel.cs",
+              "RelativeToolTip": "ViewModels\\adminviewmodels\\ManageUsersViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T22:21:04.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReviewsViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\ReviewsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ReviewsViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\ReviewsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ReviewsViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:24:31.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "AddImageWindow.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\AddImageWindow.cs",
+              "RelativeDocumentMoniker": "ViewModels\\adminviewmodels\\AddImageWindow.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\AddImageWindow.cs",
+              "RelativeToolTip": "ViewModels\\adminviewmodels\\AddImageWindow.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv2IAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:42:24.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AddImageWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\AddImageWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\AddImageWindow.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\AddImageWindow.xaml.cs",
+              "RelativeToolTip": "Views\\AdminForms\\AddImageWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:18:10.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ImageViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\ImageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\adminviewmodels\\ImageViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\ImageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\adminviewmodels\\ImageViewModel.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAiwDgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:24:37.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ManageTransportWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\ManageTransportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\ManageTransportWindow.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\ManageTransportWindow.xaml.cs",
+              "RelativeToolTip": "Views\\AdminForms\\ManageTransportWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:55:25.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Styles.xaml",
+              "RelativeDocumentMoniker": "Styles.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Styles.xaml",
+              "RelativeToolTip": "Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-05T00:04:17.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\TicketService.cs",
+              "RelativeDocumentMoniker": "TicketService.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\TicketService.cs",
+              "RelativeToolTip": "TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:04:16.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:24:10.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "Models\\Image.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Models\\Image.cs",
+              "RelativeToolTip": "Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:24:08.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StringToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\StringToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Helpers\\StringToVisibilityConverter.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\StringToVisibilityConverter.cs",
+              "RelativeToolTip": "Helpers\\StringToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:24:01.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:21:36.573Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Helpers\\RelayCommand.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:08:48.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NullToBoolConverter.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\NullToBoolConverter.cs",
+              "RelativeDocumentMoniker": "Helpers\\NullToBoolConverter.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\NullToBoolConverter.cs",
+              "RelativeToolTip": "Helpers\\NullToBoolConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:47:19.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "Helpers\\CurrentUser.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\CurrentUser.cs",
+              "RelativeToolTip": "Helpers\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T20:13:16.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TravelAgencyContext.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\TravelAgencyContext.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DTO\\TravelAgencyContext.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\TravelAgencyContext.cs",
+              "RelativeToolTip": "..\\DAL\\DTO\\TravelAgencyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:23:36.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TicketGenerator.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\TicketGenerator.cs",
+              "RelativeDocumentMoniker": "Helpers\\TicketGenerator.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\TicketGenerator.cs",
+              "RelativeToolTip": "Helpers\\TicketGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T20:24:24.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TourStatus.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\TourStatus.cs",
+              "RelativeDocumentMoniker": "Helpers\\TourStatus.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\TourStatus.cs",
+              "RelativeToolTip": "Helpers\\TourStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:45:14.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StatusToButtonEnabledConverter.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\StatusToButtonEnabledConverter.cs",
+              "RelativeDocumentMoniker": "Helpers\\StatusToButtonEnabledConverter.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Helpers\\StatusToButtonEnabledConverter.cs",
+              "RelativeToolTip": "Helpers\\StatusToButtonEnabledConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T23:55:38.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IDbRepos.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\Interfaces\\Repository\\IDbRepos.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\Repository\\IDbRepos.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\Interfaces\\Repository\\IDbRepos.cs",
+              "RelativeToolTip": "..\\Interfaces\\Repository\\IDbRepos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:20:19.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "bookings.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DomainModel\\bookings.cs",
+              "RelativeDocumentMoniker": "..\\DomainModel\\bookings.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\DomainModel\\bookings.cs",
+              "RelativeToolTip": "..\\DomainModel\\bookings.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:12:43.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "tours.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DomainModel\\tours.cs",
+              "RelativeDocumentMoniker": "..\\DomainModel\\tours.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\DomainModel\\tours.cs",
+              "RelativeToolTip": "..\\DomainModel\\tours.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T20:27:24.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ReportsWindow.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\ReportsWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\ReportsWindow.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\ReportsWindow.xaml",
+              "RelativeToolTip": "Views\\ReportsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T20:30:17.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TourDetailsWindow.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\TourDetailsWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\TourDetailsWindow.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\TourDetailsWindow.xaml",
+              "RelativeToolTip": "Views\\TourDetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T21:15:00.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BookingViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\BookingViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BookingViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\BookingViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BookingViewModel.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAIwI8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:15:59.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AddEditUsersWindow.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\AddEditUsersWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\AddEditUsersWindow.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\AddEditUsersWindow.xaml",
+              "RelativeToolTip": "Views\\AdminForms\\AddEditUsersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T00:43:09.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "images.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\Interfaces\\DTO\\images.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\DTO\\images.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\Interfaces\\DTO\\images.cs",
+              "RelativeToolTip": "..\\Interfaces\\DTO\\images.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:56:17.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ReviewManage.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\ReviewManage.cs",
+              "RelativeDocumentMoniker": "ViewModels\\adminviewmodels\\ReviewManage.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\ReviewManage.cs",
+              "RelativeToolTip": "ViewModels\\adminviewmodels\\ReviewManage.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:50:17.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "tours.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\Interfaces\\DTO\\tours.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\DTO\\tours.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\Interfaces\\DTO\\tours.cs",
+              "RelativeToolTip": "..\\Interfaces\\DTO\\tours.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswFoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T22:28:53.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AddEditToursViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\AddEditToursViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\adminviewmodels\\AddEditToursViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\AddEditToursViewModel.cs",
+              "RelativeToolTip": "ViewModels\\adminviewmodels\\AddEditToursViewModel.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAQwMoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:37:39.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "reviews.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DomainModel\\reviews.cs",
+              "RelativeDocumentMoniker": "..\\DomainModel\\reviews.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\DomainModel\\reviews.cs",
+              "RelativeToolTip": "..\\DomainModel\\reviews.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T20:56:54.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "images.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DomainModel\\images.cs",
+              "RelativeDocumentMoniker": "..\\DomainModel\\images.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\DomainModel\\images.cs",
+              "RelativeToolTip": "..\\DomainModel\\images.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:41:56.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "TourStatus.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DomainModel\\TourStatus.cs",
+              "RelativeDocumentMoniker": "..\\DomainModel\\TourStatus.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\DomainModel\\TourStatus.cs",
+              "RelativeToolTip": "..\\DomainModel\\TourStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:42:11.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "WriteReviewViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\WriteReviewViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\WriteReviewViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\WriteReviewViewModel.cs",
+              "RelativeToolTip": "ViewModels\\WriteReviewViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T19:58:34.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Review.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\Review.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\Review.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\Review.xaml",
+              "RelativeToolTip": "Views\\AdminForms\\Review.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T21:42:27.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AddImageWindow.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\AddImageWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\AddImageWindow.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\AddImageWindow.xaml",
+              "RelativeToolTip": "Views\\AdminForms\\AddImageWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T19:41:58.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AddEditUsersViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\AddEditUsersViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\adminviewmodels\\AddEditUsersViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\AddEditUsersViewModel.cs",
+              "RelativeToolTip": "ViewModels\\adminviewmodels\\AddEditUsersViewModel.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAuwLEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T22:35:50.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\Interfaces\\Services\\IReviewService.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\Services\\IReviewService.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\Interfaces\\Services\\IReviewService.cs",
+              "RelativeToolTip": "..\\Interfaces\\Services\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T20:56:46.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ITransportService.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\Interfaces\\Services\\ITransportService.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\Services\\ITransportService.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\Interfaces\\Services\\ITransportService.cs",
+              "RelativeToolTip": "..\\Interfaces\\Services\\ITransportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:57:01.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "RegisterForm.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\RegisterForm.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\RegisterForm.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\RegisterForm.xaml.cs",
+              "RelativeToolTip": "Views\\RegisterForm.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T00:58:37.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "PictureManage.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\PictureManage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\PictureManage.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\PictureManage.xaml.cs",
+              "RelativeToolTip": "Views\\AdminForms\\PictureManage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:43:19.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Review.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\Review.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\Review.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\Review.xaml.cs",
+              "RelativeToolTip": "Views\\AdminForms\\Review.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:43:23.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ManageTransportViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\ManageTransportViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\adminviewmodels\\ManageTransportViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\ManageTransportViewModel.cs",
+              "RelativeToolTip": "ViewModels\\adminviewmodels\\ManageTransportViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:58:12.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "transport.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DomainModel\\transport.cs",
+              "RelativeDocumentMoniker": "..\\DomainModel\\transport.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\DomainModel\\transport.cs",
+              "RelativeToolTip": "..\\DomainModel\\transport.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:42:12.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "..\\Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:36:35.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Service\\UserService.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\Service\\UserService.cs",
+              "RelativeToolTip": "..\\BLL\\Service\\UserService.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAYwBEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T22:19:22.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BookingWindow.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\BookingWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\BookingWindow.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\BookingWindow.xaml",
+              "RelativeToolTip": "Views\\BookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-11T12:57:55.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TransportRepository.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\repository\\TransportRepository.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\repository\\TransportRepository.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\repository\\TransportRepository.cs",
+              "RelativeToolTip": "..\\BLL\\repository\\TransportRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:05:23.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Service\\EmailService.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\Service\\EmailService.cs",
+              "RelativeToolTip": "..\\BLL\\Service\\EmailService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:54:45.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "TransportService.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\Service\\TransportService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Service\\TransportService.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\Service\\TransportService.cs",
+              "RelativeToolTip": "..\\BLL\\Service\\TransportService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wCUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T20:14:38.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TourRepository.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\repository\\TourRepository.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\repository\\TourRepository.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\repository\\TourRepository.cs",
+              "RelativeToolTip": "..\\BLL\\repository\\TourRepository.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAYwAkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T21:24:35.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\repository\\UserRepository.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\repository\\UserRepository.cs",
+              "RelativeToolTip": "..\\BLL\\repository\\UserRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T22:20:36.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ITourService.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\Interfaces\\Services\\ITourService.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\Services\\ITourService.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\Interfaces\\Services\\ITourService.cs",
+              "RelativeToolTip": "..\\Interfaces\\Services\\ITourService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T22:16:32.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Tours.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Models\\Tours.cs",
+              "RelativeDocumentMoniker": "Models\\Tours.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Models\\Tours.cs",
+              "RelativeToolTip": "Models\\Tours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:45:05.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "tours.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\tours.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DTO\\tours.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\DAL\\DTO\\tours.cs",
+              "RelativeToolTip": "..\\DAL\\DTO\\tours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:17:09.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\CurrentUser.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\CurrentUser.cs*",
+              "RelativeToolTip": "..\\BLL\\CurrentUser.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T20:13:38.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ManageToursViewModel.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\ManageToursViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\adminviewmodels\\ManageToursViewModel.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\ViewModels\\adminviewmodels\\ManageToursViewModel.cs",
+              "RelativeToolTip": "ViewModels\\adminviewmodels\\ManageToursViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T20:30:20.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\Service\\ReviewService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Service\\ReviewService.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\Service\\ReviewService.cs",
+              "RelativeToolTip": "..\\BLL\\Service\\ReviewService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:46:21.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "PictureManage.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\PictureManage.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\PictureManage.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\PictureManage.xaml",
+              "RelativeToolTip": "Views\\AdminForms\\PictureManage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T19:38:53.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ManageTourWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\ManageTourWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\ManageTourWindow.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\ManageTourWindow.xaml.cs",
+              "RelativeToolTip": "Views\\AdminForms\\ManageTourWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:21:04.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "FrameworkTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Matiq\\AppData\\Local\\Temp\\.vsdbgsrc\\5bd1382993348c832e1a36c46eef8a3066055294d59d9915c9d91b46481b75d6\\FrameworkTemplate.cs",
+              "ToolTip": "C:\\Users\\Matiq\\AppData\\Local\\Temp\\.vsdbgsrc\\5bd1382993348c832e1a36c46eef8a3066055294d59d9915c9d91b46481b75d6\\FrameworkTemplate.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAFIDAAAAAAAAAIAwwGEDAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:08:03.514Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-05T00:11:14.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "reviews.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\Interfaces\\DTO\\reviews.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\DTO\\reviews.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\Interfaces\\DTO\\reviews.cs",
+              "RelativeToolTip": "..\\Interfaces\\DTO\\reviews.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T20:56:57.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
               "Title": "RegisterService.cs",
               "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\RegisterService.cs",
               "RelativeDocumentMoniker": "RegisterService.cs",
               "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\RegisterService.cs",
               "RelativeToolTip": "RegisterService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAB2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T21:24:04.321Z"
+              "WhenOpened": "2025-01-05T00:13:15.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ResourcePart.cs",
-              "DocumentMoniker": "C:\\Users\\Matiq\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
-              "ToolTip": "C:\\Users\\Matiq\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAjwCsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:58:22.54Z"
+              "DocumentIndex": 102,
+              "Title": "AddTransportWindow.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\AddTransportWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForms\\AddTransportWindow.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForms\\AddTransportWindow.xaml",
+              "RelativeToolTip": "Views\\AdminForms\\AddTransportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T21:41:42.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "DocumentIndex": 103,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\BLL\\Service\\ImageService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Service\\ImageService.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\BLL\\Service\\ImageService.cs",
+              "RelativeToolTip": "..\\BLL\\Service\\ImageService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAYwHoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T21:03:02.843Z"
+              "WhenOpened": "2024-12-30T10:23:54.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "PictureManage.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\PictureManage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AdminForm\\PictureManage.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\PictureManage.xaml.cs",
+              "RelativeToolTip": "Views\\AdminForm\\PictureManage.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:27:57.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "PictureManage.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\PictureManage.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForm\\PictureManage.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\PictureManage.xaml",
+              "RelativeToolTip": "Views\\AdminForm\\PictureManage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T09:57:28.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "AddEditUsersWindow.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\AddEditUsersWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForm\\AddEditUsersWindow.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\AddEditUsersWindow.xaml",
+              "RelativeToolTip": "Views\\AdminForm\\AddEditUsersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-29T22:35:41.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "ManageTourWindow.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\ManageTourWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForm\\ManageTourWindow.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\ManageTourWindow.xaml",
+              "RelativeToolTip": "Views\\AdminForm\\ManageTourWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-29T23:30:44.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "AddEditUsersWindow.xaml.cs",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\AddEditUsersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AdminForm\\AddEditUsersWindow.xaml.cs",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\AddEditUsersWindow.xaml.cs",
+              "RelativeToolTip": "Views\\AdminForm\\AddEditUsersWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:28:21.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "ManageUsersWindow.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\ManageUsersWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForm\\ManageUsersWindow.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\ManageUsersWindow.xaml",
+              "RelativeToolTip": "Views\\AdminForm\\ManageUsersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-29T22:30:25.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "ManageBookingWindow.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\ManageBookingWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForm\\ManageBookingWindow.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\ManageBookingWindow.xaml",
+              "RelativeToolTip": "Views\\AdminForm\\ManageBookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-29T23:30:43.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "AddEditTours.xaml",
+              "DocumentMoniker": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\AddEditTours.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminForm\\AddEditTours.xaml",
+              "ToolTip": "D:\\vsprojects\\kursaAAch\\kursovaya\\Views\\AdminForm\\AddEditTours.xaml",
+              "RelativeToolTip": "Views\\AdminForm\\AddEditTours.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-29T23:26:32.541Z"
             }
           ]
         }

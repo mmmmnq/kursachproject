@@ -14,12 +14,12 @@ namespace DAL
 
         public int? userid { get; set; }
 
-        public int? tourid { get; set; }
+        public int tourid { get; set; }
 
         public int rating { get; set; }
 
         public string comment { get; set; }
-
+        public string UserName { get; set; }
         public DateTime reviewdate { get; set; }
 
         public virtual tours tours { get; set; }

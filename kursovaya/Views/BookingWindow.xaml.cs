@@ -19,9 +19,25 @@ namespace kursovaya.Views
     /// </summary>
     public partial class BookingWindow : Window
     {
-        public BookingWindow()
+        public BookingWindow(int userId, int tourId, decimal tourPrice, decimal transportPrice, string connectionString)
         {
             InitializeComponent();
+
+            var viewModel = new BookingViewModel(userId, tourId, tourPrice, transportPrice, connectionString);
+            DataContext = viewModel;
+
+            // Подписываемся на событие закрытия окна
+            viewModel.RequestClose += (s, e) =>
+            {
+                // Закрываем окно в UI-потоке
+                Dispatcher.Invoke(() => Close());
+            };
+
+        }
+        private void CloseButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
         }
     }
+
 }

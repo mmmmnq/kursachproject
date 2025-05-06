@@ -3,14 +3,16 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:kursovaya.Helpers"
              StartupUri="Views/MainWindow.xaml">
-             
+
     <Application.Resources>
-        <local:StringToVisibilityConverter x:Key="StringToVisibilityConverter" />
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Styles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <!-- Конвертеры -->
+            <local:StringToVisibilityConverter x:Key="StringToVisibilityConverter" />
+            <local:NullToBoolConverter x:Key="NullToBoolConverter"/>
+        </ResourceDictionary>
     </Application.Resources>
-
 </Application>
-
-
-
-
-

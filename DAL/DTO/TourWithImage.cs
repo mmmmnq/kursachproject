@@ -12,4 +12,5 @@ public class TourWithImage
     public int AvailableSeats { get; set; }
     public string Status { get; set; }
     public string ImagePath { get; set; }
+    public decimal TransportPrice { get; set; }
 }

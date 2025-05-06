@@ -1,7 +1,7 @@
 ﻿using System;
 namespace kursovaya.Models
 {
-    public class Tour
+    public class Transport
     {
         public int TourId { get; set; }
         public string Name { get; set; }
@@ -14,4 +14,4 @@ namespace kursovaya.Models
         public int AvailableSeats { get; set; }
         public string Status { get; set; }
     }
-}
+} 

@@ -53,6 +53,9 @@
     <Reference Include="Npgsql, Version=4.1.3.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
       <HintPath>packages\Npgsql.4.1.3\lib\net461\Npgsql.dll</HintPath>
     </Reference>
+    <Reference Include="QuestPDF, Version=2024.12.1.0, Culture=neutral, PublicKeyToken=0f3c2b2315ff52c8, processorArchitecture=MSIL">
+      <HintPath>packages\QuestPDF.2024.12.1\lib\netstandard2.0\QuestPDF.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>packages\System.Buffers.4.5.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
@@ -102,21 +105,75 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Helpers\CurrentUser.cs" />
+    <Compile Include="Helpers\NullToBoolConverter.cs" />
     <Compile Include="Helpers\RelayCommand.cs" />
+    <Compile Include="Helpers\StatusToButtonEnabledConverter.cs" />
     <Compile Include="Helpers\StringToVisibilityConverter.cs" />
+    <Compile Include="Helpers\TicketGenerator.cs" />
+    <Compile Include="Helpers\TourStatus.cs" />
     <Compile Include="Models\Image.cs" />
+    <Compile Include="Models\Review.cs" />
+    <Compile Include="Models\Transport.cs" />
     <Compile Include="Models\Tours.cs" />
     <Compile Include="Models\Users.cs" />
     <Compile Include="RegisterService.cs" />
+    <Compile Include="TicketService.cs" />
+    <Compile Include="ViewModels\AdminViewModel.cs" />
+    <Compile Include="ViewModels\adminviewmodels\AddEditToursViewModel.cs" />
+    <Compile Include="ViewModels\adminviewmodels\AddEditUsersViewModel.cs" />
+    <Compile Include="ViewModels\adminviewmodels\AddImageWindow.cs" />
+    <Compile Include="ViewModels\adminviewmodels\AddTransportViewModel.cs" />
+    <Compile Include="ViewModels\adminviewmodels\AdminViewModel.cs" />
+    <Compile Include="ViewModels\adminviewmodels\BookingManage.cs" />
+    <Compile Include="ViewModels\adminviewmodels\ImageViewModel.cs" />
+    <Compile Include="ViewModels\adminviewmodels\ManageToursViewModel.cs" />
+    <Compile Include="ViewModels\adminviewmodels\ManageTransportViewModel.cs" />
+    <Compile Include="ViewModels\adminviewmodels\ManageUsersViewModel.cs" />
+    <Compile Include="ViewModels\adminviewmodels\ReviewManage.cs" />
+    <Compile Include="ViewModels\BookingViewModel.cs" />
     <Compile Include="ViewModels\LoginViewModel.cs" />
     <Compile Include="ViewModels\RegisterViewModel.cs" />
+    <Compile Include="ViewModels\ReposrtsViewModel.cs" />
+    <Compile Include="ViewModels\ReviewsViewModel.cs" />
+    <Compile Include="ViewModels\TourDetailsAndReviewsViewModel.cs" />
     <Compile Include="ViewModels\TourViewModel.cs" />
+    <Compile Include="ViewModels\WriteReviewViewModel.cs" />
     <Compile Include="Views\AdminForm.xaml.cs">
       <DependentUpon>AdminForm.xaml</DependentUpon>
     </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Views\AdminForms\AddEditTours.xaml.cs">
+      <DependentUpon>AddEditTours.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminForms\AddEditUsersWindow.xaml.cs">
+      <DependentUpon>AddEditUsersWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminForms\AddImageWindow.xaml.cs">
+      <DependentUpon>AddImageWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminForms\AddTransportWindow.xaml.cs">
+      <DependentUpon>AddTransportWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminForms\ManageBookingWindow.xaml.cs">
+      <DependentUpon>ManageBookingWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminForms\ManageTourWindow.xaml.cs">
+      <DependentUpon>ManageTourWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminForms\ManageTransportWindow.xaml.cs">
+      <DependentUpon>ManageTransportWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminForms\ManageUsersWindow.xaml.cs">
+      <DependentUpon>ManageUsersWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminForms\PictureManage.xaml.cs">
+      <DependentUpon>PictureManage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AdminForms\Review.xaml.cs">
+      <DependentUpon>Review.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\BookingWindow.xaml.cs">
       <DependentUpon>BookingWindow.xaml</DependentUpon>
@@ -127,13 +184,67 @@
     <Compile Include="Views\RegisterForm.xaml.cs">
       <DependentUpon>RegisterForm.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Views\ReportsWindow.xaml.cs">
+      <DependentUpon>ReportsWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\TourDetailsWindow.xaml.cs">
       <DependentUpon>TourDetailsWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\UserForm.xaml.cs">
       <DependentUpon>UserForm.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Views\WriteReviewWindow.xaml.cs">
+      <DependentUpon>WriteReviewWindow.xaml</DependentUpon>
+    </Compile>
+    <Page Include="CommonStyles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Styles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Views\AdminForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AdminForms\AddEditTours.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\AdminForms\AddEditUsersWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AdminForms\AddImageWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AdminForms\AddTransportWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\AdminForms\ManageBookingWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\AdminForms\ManageTourWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\AdminForms\ManageTransportWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\AdminForms\ManageUsersWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\AdminForms\PictureManage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AdminForms\Review.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -149,11 +260,19 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Views\ReportsWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Views\TourDetailsWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Views\UserForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\WriteReviewWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -194,6 +313,14 @@
       <Project>{f3f8cae2-ce19-4834-97e9-ca2d98fe139f}</Project>
       <Name>DAL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DomainModel\DomainModel.csproj">
+      <Project>{3dfc8f66-92db-48f7-b9f9-a330d72c0689}</Project>
+      <Name>DomainModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Interfaces\Interfaces.csproj">
+      <Project>{d4c6bc76-4c89-44e5-878e-4b582ac592db}</Project>
+      <Name>Interfaces</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Views\tour_ph\EKB.jpg" />
@@ -208,6 +335,8 @@
     </PropertyGroup>
     <Error Condition="!Exists('packages\EntityFramework.6.5.1\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.5.1\build\EntityFramework.props'))" />
     <Error Condition="!Exists('packages\EntityFramework.6.5.1\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.5.1\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('packages\QuestPDF.2024.12.1\build\net4\QuestPDF.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\QuestPDF.2024.12.1\build\net4\QuestPDF.targets'))" />
   </Target>
   <Import Project="packages\EntityFramework.6.5.1\build\EntityFramework.targets" Condition="Exists('packages\EntityFramework.6.5.1\build\EntityFramework.targets')" />
+  <Import Project="packages\QuestPDF.2024.12.1\build\net4\QuestPDF.targets" Condition="Exists('packages\QuestPDF.2024.12.1\build\net4\QuestPDF.targets')" />
 </Project>

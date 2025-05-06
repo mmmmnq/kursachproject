@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\vsprojects\kursaAAch\kursovaya\App.xaml
-6-854719641
+201537047658
 
-20242889039
-1351071594760
-Views\AdminForm.xaml;Views\BookingWindow.xaml;Views\MainWindow.xaml;Views\RegisterForm.xaml;Views\TourDetailsWindow.xaml;Views\UserForm.xaml;
+56-201328914
+138-853384357
+CommonStyles.xaml;Styles.xaml;Views\AdminForm.xaml;Views\AdminForms\AddEditTours.xaml;Views\AdminForms\AddEditUsersWindow.xaml;Views\AdminForms\AddImageWindow.xaml;Views\AdminForms\AddTransportWindow.xaml;Views\AdminForms\ManageBookingWindow.xaml;Views\AdminForms\ManageTourWindow.xaml;Views\AdminForms\ManageTransportWindow.xaml;Views\AdminForms\ManageUsersWindow.xaml;Views\AdminForms\PictureManage.xaml;Views\AdminForms\Review.xaml;Views\BookingWindow.xaml;Views\MainWindow.xaml;Views\RegisterForm.xaml;Views\ReportsWindow.xaml;Views\TourDetailsWindow.xaml;Views\UserForm.xaml;Views\WriteReviewWindow.xaml;
 
 False
 
